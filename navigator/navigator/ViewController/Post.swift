@@ -1,0 +1,12 @@
+//
+//  Post.swift
+//  navigator
+//
+//  Created by Юля Шубина on 31.08.2026.
+//
+
+import Foundation
+
+struct Post {
+    let title: String
+}

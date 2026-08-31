@@ -8,6 +8,9 @@ import UIKit
 
 class ProfileViewController: UIViewController {
     
+    private let posts: Post = Post(title: <#String#>, author: "alex_dev", description: "Первый день работы над новым проектом.", image: "post_1", likes: 42, views: 317)
+                                 
+            
     let headerView = ProfileHeaderView()
     let actionButton = UIButton()
     
